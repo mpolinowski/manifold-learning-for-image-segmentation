@@ -6,9 +6,9 @@ I will use different techniques to embed the digits dataset and plot the project
 
 
 1. [Locally Linear Embedding](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/tree/master/01-Locally_Linear_Embedding)
-    * [Principal Component Analysis (PCA) for Tabular Datasets](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-04-11-locally-linear-embedding/2023-04-11)
+    * [Locally Linear Embedding (LLE) for Tabular Datasets](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-04-11-locally-linear-embedding/2023-04-11)
 2. [Principal Component Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/tree/master/02-Principal_Component_Analysis)
-    * [Locally Linear Embedding (LLE) for Tabular Datasets](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-04-09-principal-component-analysis/2023-04-09)
+    * [Principal Component Analysis (PCA) for Tabular Datasets](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-04-09-principal-component-analysis/2023-04-09)
 3. [Fisher Discriminant Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/tree/master/03-Fisher_Discriminant_Analysis)
     * [Fisher Linear Discriminant Analysis (LDA) for Tabular Datasets](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-04-13-fisher-discriminant-analysis/2023-04-13)
 4. [Isometric Mapping](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/tree/master/04-Isometric_Mapping)
