@@ -59,7 +59,7 @@ sns.scatterplot(
     data=data)
 ```
 
-![Principal Component Analysis](../assets/Dimensionality_Reduction_for_Image_Segmentation_09.png)
+![Principal Component Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_09.png)
 
 
 ### 3-Dimensional Plot
@@ -85,7 +85,7 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Principal Component Analysis](../assets/Dimensionality_Reduction_for_Image_Segmentation_10.png)
+![Principal Component Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_10.png)
 
 ```python
 

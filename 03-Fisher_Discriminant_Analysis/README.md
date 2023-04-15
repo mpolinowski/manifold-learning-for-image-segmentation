@@ -62,7 +62,7 @@ sns.scatterplot(
     palette='tab10')
 ```
 
-![Fisher Discriminant Analysis](../assets/Dimensionality_Reduction_for_Image_Segmentation_11.png)
+![Fisher Discriminant Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_11.png)
 
 
 ### 3-Dimensional Plot
@@ -89,7 +89,7 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Fisher Discriminant Analysis](../assets/Dimensionality_Reduction_for_Image_Segmentation_12.png)
+![Fisher Discriminant Analysis](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_12.png)
 
 ```python
 

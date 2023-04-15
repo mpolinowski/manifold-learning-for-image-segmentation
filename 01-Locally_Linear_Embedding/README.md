@@ -44,7 +44,7 @@ plt.title('Image Label: ' + str(y[888]))
 plt.imshow(X[888].reshape(8,8))
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_01.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_01.png)
 
 ```python
 fig, axes = plt.subplots(nrows=3, ncols=3, sharex=True, sharey=True, figsize=(12,12))
@@ -69,7 +69,7 @@ axes[2,2].imshow(X[999].reshape(8,8), cmap='Greens')
 plt.tight_layout()
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_02.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_02.png)
 
 
 ### 2-Dimensional Plot
@@ -91,7 +91,7 @@ plt.title('2d Plot with 10 nearest neighbors')
 sns.scatterplot(x='LLE1', y='LLE2', hue='Class', data=data, palette='tab10')
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_03.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_03.png)
 
 ```python
 no_neighbors=15
@@ -106,7 +106,7 @@ plt.title('2d Plot with 15 nearest neighbors')
 sns.scatterplot(x='LLE1', y='LLE2', hue='Class', data=data, palette='tab10')
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_04.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_04.png)
 
 ```python
 no_neighbors=20
@@ -121,7 +121,7 @@ plt.title('2d Plot with 20 nearest neighbors')
 sns.scatterplot(x='LLE1', y='LLE2', hue='Class', data=data, palette='tab10')
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_05.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_05.png)
 
 
 ### 3-Dimensional Plot
@@ -151,7 +151,7 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_06.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_06.png)
 
 ```python
 no_components=3
@@ -178,7 +178,7 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_07.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_07.png)
 
 ```python
 no_components=3
@@ -205,7 +205,7 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Dimensionality Reduction for Image Segmentation](../assets/Dimensionality_Reduction_for_Image_Segmentation_08.png)
+![Dimensionality Reduction for Image Segmentation](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_08.png)
 
 ```python
 

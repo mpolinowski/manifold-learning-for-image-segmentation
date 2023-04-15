@@ -68,7 +68,7 @@ sns.scatterplot(
     palette='tab10')
 ```
 
-![Isometric Mapping](../assets/Dimensionality_Reduction_for_Image_Segmentation_13.png)
+![Isometric Mapping](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_13.png)
 
 
 ### 3-Dimensional Plot
@@ -103,4 +103,4 @@ plot = px.scatter_3d(
 plot.show()
 ```
 
-![Isometric Mapping](../assets/Dimensionality_Reduction_for_Image_Segmentation_14.png)
+![Isometric Mapping](https://github.com/mpolinowski/manifold-learning-for-image-segmentation/blob/master/assets/Dimensionality_Reduction_for_Image_Segmentation_14.png)
